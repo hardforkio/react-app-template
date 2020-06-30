@@ -1,4 +1,4 @@
-# Template for react apps with some usefull extras:
+# Template for react apps with some useful extras:
 - Bootstrapped with create-react-app with typescript support,
 - Tests with Jest, Chai and enzyme,
 - Code style and linting with eslint and prettier,
